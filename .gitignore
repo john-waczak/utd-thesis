@@ -8,3 +8,6 @@
 *.out
 *.toc
 *.pdf 
+*.synctex.gz
+
+sample.tex
